@@ -17,7 +17,29 @@
     text-align: center;
 }
 
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
 #refresh {
     margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#f {
+    margin-left: 20px;
+    margin-right: 5px;
+    font-style: italic
+}
+
+#toolbar {
     margin-bottom: 10px;
 }
